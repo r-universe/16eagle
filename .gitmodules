@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "basemaps"]
+	path = basemaps
+	url = https://github.com/16eagle/basemaps
+	shallow = true
+	registered = true
+[submodule "moveVis"]
+	path = moveVis
+	url = https://github.com/16eagle/movevis
+	shallow = true
+	registered = true
