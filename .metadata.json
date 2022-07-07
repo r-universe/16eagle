@@ -1,9 +1,5 @@
 [
   {
-    "package": "basemaps",
-    "oncran": true
-  },
-  {
     "package": "moveVis",
     "oncran": true
   }
