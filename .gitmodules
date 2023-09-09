@@ -5,6 +5,3 @@
 [submodule "basemaps"]
 	path = basemaps
 	url = https://github.com/16eagle/basemaps
-[submodule "moveVis"]
-	path = moveVis
-	url = https://github.com/16eagle/movevis
