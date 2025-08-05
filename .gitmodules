@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/16eagle/16eagle.r-universe.dev
 	branch = HEAD
+[submodule "RStoolbox"]
+	path = RStoolbox
+	url = https://github.com/bleutner/RStoolbox
 [submodule "basemaps"]
 	path = basemaps
-	url = https://github.com/16eagle/basemaps
+	url = https://github.com/16EAGLE/basemaps
+[submodule "moveVis"]
+	path = moveVis
+	url = https://github.com/16EAGLE/moveVis
